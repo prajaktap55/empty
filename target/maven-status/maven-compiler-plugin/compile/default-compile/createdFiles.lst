@@ -1,0 +1,5 @@
+com\datamining\security\config\core\SpringSecurityInitializer.class
+com\datamining\security\config\core\SpringMVCWebAppInitializer.class
+com\datamining\security\config\LoginSecurityConfig.class
+com\datamining\security\controller\LoginController.class
+com\datamining\security\config\LoginApplicationConfig.class
